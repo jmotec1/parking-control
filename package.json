@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:codarme/lesson-quality-releases"
+    "url": "https://github.com:jmotec1/parking-control"
   },
   "scripts": {
     "release": "semantic-release --no-ci"
